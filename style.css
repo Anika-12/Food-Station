@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    
+     
+}
+
+h3{
+    font-size: 25px;
+    color: #202421;
+}
+
+
+.flexible-part{
+    display: flex;
+    margin-bottom: 100px;
+}
+.header img{
+    
+    padding-top: 30px;
+    padding-right: 40px;
+    
+}
+.header{
+    padding-left: 90px;
+}
+.text-color{
+    color: brown;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,brown);
+    color: whitesmoke;
+    padding: 10px 30px;
+    font-weight: 400;
+    border-radius: 20px;
+    font-size: 20px;
+}
