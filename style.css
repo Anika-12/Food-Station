@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    
 }
 h1{
     font-size: 50px;
@@ -12,8 +13,8 @@ h2{
     padding-top: 100px;
 }
 
-.parag{
-    font-size: 17px;
+.paragraph{
+    font-size: 15px;
     padding-right: 100px;
     text-align: justify;
 }
@@ -52,4 +53,55 @@ h3{
 #middle{
     background-image: url(images/background.png);
     background-repeat: no-repeat;
+}
+.recipe-tittle{
+
+    text-align: center;
+}
+.middle-para{
+    padding-left: 300px;
+    padding-right: 300px;
+    font-size: 14px;
+    text-align: inherit;
+}
+.recipie{
+   width: 30%;
+  padding-left: 10px;
+  padding-right: 10px;
+   border-radius: 20px;
+   box-shadow: 5px 5px 30px gray;
+   margin-left: 40px;
+   margin-right: 40px;
+   
+    
+}
+.recipie img{
+    width: 95%;
+    display: block;
+   padding-top: 20px;
+   padding-left: 8px;
+   padding-right: 7px;
+   padding-bottom: 10px;
+  }
+footer {
+   background-color: #06031c;
+   text-align: center;
+   color: whitesmoke;
+  padding: 5px  ;
+  
+
+}
+.footer-text{
+    margin-top: -90px;
+    color: rgb(73, 61, 61);
+    
+}
+.footer-text-another{
+    margin-top: -20px;
+}
+    
+.image-size{
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 5px;
 }
