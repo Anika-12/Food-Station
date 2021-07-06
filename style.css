@@ -7,6 +7,16 @@ h1{
     
      
 }
+h2{
+    font-size: 40px;
+    padding-top: 100px;
+}
+
+.parag{
+    font-size: 17px;
+    padding-right: 100px;
+    text-align: justify;
+}
 
 h3{
     font-size: 25px;
@@ -16,7 +26,7 @@ h3{
 
 .flexible-part{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
 }
 .header img{
     
@@ -38,4 +48,8 @@ h3{
     font-weight: 400;
     border-radius: 20px;
     font-size: 20px;
+}
+#middle{
+    background-image: url(images/background.png);
+    background-repeat: no-repeat;
 }
