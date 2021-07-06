@@ -12,6 +12,12 @@ h2{
     font-size: 40px;
     padding-top: 100px;
 }
+h4{
+    font-size: 40px;
+    font-weight: 400;
+    text-decoration: underline;
+    color:rgb(151, 111, 114)
+}
 
 .paragraph{
     font-size: 15px;
@@ -83,6 +89,16 @@ h3{
    padding-right: 7px;
    padding-bottom: 10px;
   }
+
+  .extra-part{
+    text-align: center;
+    background-color: honeydew;
+}
+.extra-part h3{
+    background-color: rgb(15, 14, 15);
+    color:white;
+}
+
 footer {
    background-color: #06031c;
    text-align: center;
@@ -99,9 +115,12 @@ footer {
 .footer-text-another{
     margin-top: -20px;
 }
+
+/*orderfood*/
     
 .image-size{
     margin-left: 50px;
     margin-right: 50px;
     padding: 5px;
 }
+
